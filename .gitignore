@@ -1,0 +1,6 @@
+# scratch frame sequences emitted by tools/make_showcase_gifs.py
+tools/.frames/
+__pycache__/
+*.pyc
+
+.DS_Store
